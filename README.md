@@ -12,3 +12,4 @@
 
 my name is Fredi,
 I am a hobby coder from germany
+<span style="color:green">YOUR_TEXT</span>
