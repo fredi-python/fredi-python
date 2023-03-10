@@ -10,7 +10,7 @@
 
 ## Welcome to my Github page!
 
-### My name is Fredi,
-I am a hobby coder from germany.
-My favorite game is Minetest
-I also have a minetest server called "ONEBLOCK"
+### My name is Fredi,  
+I am a hobby coder from germany.  
+My favorite game is Minetest  
+I also have a minetest server called "ONEBLOCK"  
