@@ -11,5 +11,6 @@
 
 ### My name is Fredi,  
 I am a hobby coder from germany.  
-My favorite game is Minetest  
-I also have a minetest server called "ONEBLOCK"  
+I use Linux.  
+My favorite game is Minetest.  
+I own a minetest server called "ONEBLOCK".  
