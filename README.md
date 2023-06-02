@@ -20,3 +20,4 @@
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredi-python&show_icons=true&theme=radical&locale=en&layout=compact" alt="fredi-python" /></p>
 
+My HuggingFace 🤗 profile can be found at https://huggingface.co/Fredithefish
