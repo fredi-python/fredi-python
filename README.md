@@ -14,3 +14,4 @@ I am a hobby coder from germany.
 I use Linux.  
 My favorite game is Minetest.  
 I own a minetest server called "ONEBLOCK".  
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=fredi-python&show_icons=true&theme=radical)
