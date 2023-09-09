@@ -6,7 +6,9 @@
 
 - 👯 I’m looking to collaborate on [HomoScriptor](https://github.com/HomoScriptor-Project/HomoScriptor)
 
-- 📫 How to reach me **fredi@mt-oneblock.net**
+- 📫 How to **reach me** **fredi@mt-oneblock.net**
+
+- 💰 How to donate? You can **support my work** [HERE](https://fredi-python.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +24,4 @@
 
 My HuggingFace 🤗 profile can be found at https://huggingface.co/Fredithefish
 
-You can support my work [here](fredi-python.github.io)
+
