@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Fredi</h1>
-<h3 align="left">A hobby python coder</h3>
+<h3 align="left">Hobby python coder</h3>
 
 
 - 🌱 I’m currently learning **Pytorch, Transformers, Peft**
