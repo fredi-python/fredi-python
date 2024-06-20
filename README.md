@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Pytorch, Transformers, Peft**
 
-- 👯 I’m looking to collaborate on [HomoScriptor](https://github.com/HomoScriptor-Project/HomoScriptor)
-
 - 📫 How to **reach me** **fredi@mt-oneblock.net**
 
 - 💰 How to donate? You can **support my work** [HERE](https://fredi-python.github.io/)
